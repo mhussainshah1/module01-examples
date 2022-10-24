@@ -1,0 +1,19 @@
+# Project exclude paths
+/module01-environment-validation/target/
+/module01-question01/target/
+/module01-question02/target/
+/module01-question03/target/
+/module01-question04/target/
+/module01-question05/target/
+/module01-question06/module01-question06-boot-web/target/
+/module01-question06/module01-question06-non-web/target/
+/module01-question06/module01-question06-web-servlet2/target/
+/module01-question06/module01-question06-web-servlet3-xml/target/
+/module01-question09/module01-question09-web/target/
+/module01-question10/module01-question10-scopes-web/target/
+/module01-question24/target/
+/module01-question25/target/
+/module01-question26/target/
+/module01-question27/target/
+/module01-question28/target/
+/module01-question32/module01-question32-servlet-container/target/
